@@ -1,5 +1,5 @@
 # Basket-ball_player_data
 
-## This is a Basketball player data explorer app 
+### This is a Basketball player data explorer app 
 
-## this code is refered from- https://github.com/dataprofessor/basketball-heroku
+### this code is refered from- https://github.com/dataprofessor/basketball-heroku
